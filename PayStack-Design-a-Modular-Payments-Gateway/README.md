@@ -1,5 +1,3 @@
-# BTech4thYear-PayStack
-
 # PayStack: Design a Modular Payments Gateway
 
 ## Overview
